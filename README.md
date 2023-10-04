@@ -31,13 +31,13 @@ To Do List é uma aplicação web full-stack que permite a criação, a gerênci
 1. Clone este repositório:
      
 ```shell
-git clone https://github.com/annaletycia/MyAPI.git
+git clone https://github.com/annaletycia/ToDoList.git
 ```
      
 2. Navegue até o diretório do projeto:
 
 ```shell
-cd MyAPI
+cd ToDoList
 ```
 
 3. Instale as dependências do servidor:
